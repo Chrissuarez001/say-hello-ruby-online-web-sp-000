@@ -1,4 +1,4 @@
 # Build your say_hello method here
-def say_hello ( name ="KentBeck") 
+def say_hello ( name ="KentBeck")
 puts "Hello #{name}"
 end
